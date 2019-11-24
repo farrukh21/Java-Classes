@@ -3,7 +3,7 @@ package com.class15;
 public class IQ4 {
 	public static void main(String[] args) {
 		/*
-		 * how to find oout the part of the string from a String?
+		 * how to find out the part of the string from a String?
 		 * what is substring?
 		 * Find number of words in string?
 		 */

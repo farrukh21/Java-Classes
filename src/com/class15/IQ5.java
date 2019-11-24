@@ -3,7 +3,6 @@ package com.class15;
 public class IQ5 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		String given="Welcome to the Java class";
 		/*
 		 * to reverse String
